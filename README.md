@@ -1,16 +1,23 @@
-## Hi there 👋
+# hi! welcome to my profile!
 
-<!--
-**miiichaelllduzzit/miiichaelllduzzit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hi, I'm **miiichaelll (Michael)** – A Computer Science Senior & Researcher.  
+Focused on **Kernel Engineering, Offensive Security, and Low-Level Programming mainly**.  
 
-Here are some ideas to get you started:
+## Hobbies: 
+- **Multi-Genre Music Production**
+- ***and creating funny graphical projects in C and x86 Assembly inside a C kernel, with math and physics somewhat involved.***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills and Expertise
+- **Gray Hat:** Ethical hacking & penetration testing  
+- **Programming:** C, x86 NASM Assembly, Python  
+- **Kernel Engineering:** OS & Low-Level Development  
+- **Malware Analysis:** Reverse Engineering & Binary Exploiting  
+- **Front-End Development:** HTML, CSS, JS (currently learning React.JS)  
+
+---
+
+## Contact
+*you can find my contacts on my linked website!*
