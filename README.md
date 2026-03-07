@@ -1,23 +1,50 @@
-# hi! welcome to my profile!
+# hi! 👋 I'm Michael (miiichaelll)
 
-## About Me
-Hi, I'm **miiichaelll (Michael)** – A Computer Science Senior & Researcher.  
-Focused on **Kernel Engineering, Offensive Security, and Low-Level Programming mainly**.  
+I'm a Computer Science Senior focused on **systems programming, security research, and low-level software development**.
 
-## Hobbies: 
-- **Multi-Genre Music Production**
-- ***and creating funny graphical projects in C and x86 Assembly inside a C kernel, with math and physics somewhat involved.***
+My work primarily explores **kernel-level experimentation, vulnerability research, and binary analysis**, with an interest in understanding how systems behave at the lowest levels.
 
 ---
 
-## Skills and Expertise
-- **Gray Hat:** Ethical hacking & penetration testing  
-- **Programming:** C, x86 NASM Assembly, Python  
-- **Kernel Engineering:** OS & Low-Level Development  
-- **Malware Analysis:** Reverse Engineering & Binary Exploiting  
-- **Front-End Development:** HTML, CSS, JS (currently learning React.JS)  
+## Areas of Interest
+
+- Kernel engineering and operating system internals
+- Low-level systems programming
+- Web application security
+- Vulnerability research
+- Reverse engineering and binary analysis
+
+---
+
+## Technical Stack
+
+**Programming**
+- C
+- x86 Assembly (NASM)
+- Python
+
+**Systems**
+- Linux
+- Kernel Experimentation
+- Low-level Memory and Systems Analysis
+
+**Security**
+- Web Vulnerability Discovery
+- Exploitation Analysis
+- Malware and Binary Research
+
+**Web**
+- HTML
+- CSS
+- JavaScript  
+- Currently learning React
+
+---
+
+## Projects
+[watchdawg](https://github.com/miiichaelllduzzit/watchdawg) - A lightweight watchdog-alike monitoring utility designed to observe PE files behavior and detect abnormal conditions.
 
 ---
 
 ## Contact
-*you can find my contacts on my linked website!*
+Contact information is available on my [website](https://miiichaelll.neocities.org).
