@@ -42,7 +42,7 @@ My work primarily explores **kernel-level experimentation, vulnerability researc
 ---
 
 ## Projects
-[watchdawg](https://github.com/miiichaelllduzzit/watchdawg) - A lightweight watchdog-alike monitoring utility designed to observe PE files behavior and detect abnormal conditions.
+[watchdawg](https://github.com/miiichaelllduzzit/watchdawg) - Lightweight ETW-based behavioral monitor for observing PE execution and detecting anomalous runtime behavior during dynamic malware analysis.
 
 ---
 
